@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://critancou.github.io/sitemap
+Sitemap: https://critancou.github.io/app/sitemap
+Sitemap: https://critancou.github.io/assets/sitemap
+Sitemap: https://critancou.github.io/css/sitemap
+Sitemap: https://critancou.github.io/includes/sitemap
+Sitemap: https://critancou.github.io/item/sitemap
+Sitemap: https://critancou.github.io/src/sitemap
